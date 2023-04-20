@@ -4,7 +4,8 @@ This repository contains the implementation of our paper published at T-PAMI and
 
 We are then able to obtain high quality results like these:
 
-![Example 1](res/example_1.gif) ![Example 2](res/example_2.gif)
+<img src="res/example_1.gif" alt=“Example 1” width="300" height="120">
+<img src="res/example_2.gif" alt=“Example 2” width="300" height="120">
 
 ### Abstract
 
@@ -12,7 +13,7 @@ Image-to-image translation (i2i) networks suffer from entanglement effects in pr
 
 ### Method
 
-![Example 1](res/method.png)
+![Example 1](res/pipeline_journal.png)
 
 ### Installation
 

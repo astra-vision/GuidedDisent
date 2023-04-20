@@ -12,7 +12,7 @@ Image-to-image translation (i2i) networks suffer from entanglement effects in pr
 
 ### Method
 
-![Example 1](res/method.png)
+![Example 1](res/pipeline_journal.png)
 
 ### Installation
 

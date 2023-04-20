@@ -1,0 +1,5 @@
+*__pycache__*
+.DS_Store
+*/*DS_Store*
+nuscenes_dataset.py
+weights*

@@ -2,10 +2,12 @@
 
 This repository contains the implementation of our paper published at T-PAMI and ECCV. In short, we learn to disentangle visual traits and generate them in a complementary manner by combining the learning capabilities of GANs with realistic physical models.
 
-We are then able to obtain high quality results like these:
+We are then able to obtain high quality rainy image synthesis like these:
 
-<img src="res/example_1.gif" alt=“Example 1” width="300" height="120">
-<img src="res/example_2.gif" alt=“Example 2” width="300" height="120">
+![Example 1](res/example_1.gif)
+![Example 2](res/example_2.gif)
+
+For more information please read [our T-PAMI paper](https://ieeexplore.ieee.org/abstract/document/10070869).
 
 ### Abstract
 
@@ -50,17 +52,14 @@ If you use our method in your research, please cite our papers:
   title={Physics-informed Guided Disentanglement in Generative Networks},
   author={Pizzati, Fabio and Cerri, Pietro and de Charette, Raoul},
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2023},
-  publisher={IEEE}
+  year={2023}
 }
 
 @inproceedings{pizzati2020model,
-author="Pizzati, Fabio
-and Cerri, Pietro
-and de Charette, Raoul",
-title="Model-Based Occlusion Disentanglement for Image-to-Image Translation",
-booktitle="European Conference on Computer Vision",
-year="2020"
+title={Model-Based Occlusion Disentanglement for Image-to-Image Translation},
+author={Pizzati, Fabio and Cerri, Pietro and de Charette, Raoul},
+booktitle={European Conference on Computer Vision},
+year={2020}
 }
 
 ```

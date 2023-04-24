@@ -32,7 +32,7 @@ Then, download the pertained weights and move them to the `weights` directory:
 ```
 wget https://www.rocq.inria.fr/rits_files/computer-vision/guideddisent/pretrained.pth
 mkdir weights
-mv pretraines.pth weights
+mv pretrained.pth weights
 ```
 
 ### Usage

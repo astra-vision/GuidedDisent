@@ -30,7 +30,9 @@ pip install -r requirements.txt
 Then, download the pertained weights and move them to the `weights` directory:
 
 ```
-TODO
+wget https://www.rocq.inria.fr/rits_files/computer-vision/guideddisent/pretrained.pth
+mkdir weights
+mv pretraines.pth weights
 ```
 
 ### Usage
